@@ -1,3 +1,4 @@
+![logo](https://github.com/Vasanth-Aids/Vasanth-Aids/blob/main/Gradient%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vasantha Raja S</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
