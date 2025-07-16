@@ -1,13 +1,13 @@
 ![logo](https://github.com/Vasanth-Aids/Vasanth-Aids/blob/main/Gradient%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vasantha Raja S</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h3 align="center">A passionate Web development and Data Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanth-aids&label=Profile%20views&color=0e75b6&style=flat" alt="vasanth-aids" /> </p>
 
 - 🌱 I’m currently learning **Python ,Power BI ,Excel ,SQL ,Machine Learning**
 
-- 💬 Ask me about **Python ,Power BI**
+- 💬 Ask me about **Web Development,Python ,Power BI**
 
 - 📫 How to reach me **selvamvasath2005@gmail.com**
 
